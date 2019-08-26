@@ -1,4 +1,9 @@
-def link = "It's Dangerous To Go Alone! Take This."
+link = "It's Dangerous To Go Alone! Take This."
+phrase = "Do A Barrel Roll!"
+
+def any_phrase(phrase = "Do A Barrel Roll!")
+    puts phrase
+  end 
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
