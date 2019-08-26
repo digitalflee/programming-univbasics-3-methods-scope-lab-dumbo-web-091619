@@ -1,4 +1,4 @@
-def link = ""
+def link = "It's Dangerous To Go Alone! Take This."
 
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
